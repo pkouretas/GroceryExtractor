@@ -2,13 +2,13 @@
 
 This is an IntelliJ project. Clone the repository and open locally in IntelliJ. 
 
-Dependencies used:
+*Dependencies* used:
 
-hamcrest-core-1.3.jar
-javax.json-api-1.0.jar
-javax.json-1.0.4.jar
-jsoup-1.8.3.jar
-junit-4.12.jar
+* hamcrest-core-1.3.jar
+* javax.json-api-1.0.jar
+* javax.json-1.0.4.jar
+* jsoup-1.8.3.jar
+* junit-4.12.jar
 
 You can either include the jar files or create build.gradle file. 
 
